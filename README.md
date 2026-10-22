@@ -98,7 +98,7 @@ python skills/pattern-atlas/scripts/scan_ohlcv.py examples/demo_ohlcv.csv --outp
 
 ```text
 Pattern-Atlas-Technical-Analysis-Agent-Skill/
-├── README.md / AGENTS.md / LICENSE / CHANGELOG.md
+├── README.md / AGENTS.md / LICENSE / NOTICE / CHANGELOG.md
 ├── gallery.html                 # красивый интерактивный автономный каталог
 ├── skills/pattern-atlas/
 │   ├── SKILL.md                # агентские инструкции, progressive disclosure
@@ -138,4 +138,4 @@ Pattern Atlas is a portable, dependency-free Agent Skill inspired by the **index
 
 ## Attribution, copyright and risk
 
-This project's **original code, diagrams and authored commentary** are MIT-licensed. ThePatternSite, its original text, screenshots, photos and tables are **not** MIT-licensed by this repo; follow links to view them on the source site. This project is not endorsed by or affiliated with Thomas Bulkowski. Market outcomes are uncertain; this is educational material, not personalized investment advice or evidence of profitable strategies. See [RESEARCH ETHICS](docs/SOURCE_AUDIT.md) and [LICENSE](LICENSE).
+This project's **original code, diagrams and authored commentary** are MIT-licensed. ThePatternSite, its original text, screenshots, photos and tables are **not** MIT-licensed by this repo; follow links to view them on the source site. This project is not endorsed by or affiliated with Thomas Bulkowski. Market outcomes are uncertain; this is educational material, not personalized investment advice or evidence of profitable strategies. See [RESEARCH ETHICS](docs/SOURCE_AUDIT.md), [LICENSE](LICENSE) and [NOTICE](NOTICE).
