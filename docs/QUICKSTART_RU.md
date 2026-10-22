@@ -6,4 +6,4 @@
 4. Термин из индекса можно искать без LLM: `python skills/pattern-atlas/scripts/search_catalog.py "double bottoms"`.
 5. Демонстрация OHLCV: `python skills/pattern-atlas/scripts/scan_ohlcv.py examples/demo_ohlcv.csv`.
 
-Полный состав описан в [README](../README.md), а ограничения первоисточника — в [аудите](SOURCE_AUDIT.md).
+Полный состав описан в [README на русском](../README.ru.md), а ограничения первоисточника — в [аудите](SOURCE_AUDIT.md).

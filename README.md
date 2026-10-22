@@ -5,7 +5,7 @@
 
   **Describe. Verify. Falsify.**
 
-  An open-source, offline-first AI Agent Skill for chart-pattern research, identification and critical validation.
+  A portable, offline-first Agent Skill for chart-pattern research, identification and critical validation.
 
   [![Agent Skills](https://img.shields.io/badge/Agent_Skills-compatible-4cbfbd)](https://agentskills.io/specification)
   [![skills.sh](https://img.shields.io/badge/skills.sh-Pattern%20Atlas-111111)](https://www.skills.sh/kaigorodovtuskul/pattern-atlas-technical-analysis-agent-skill/pattern-atlas)
@@ -13,129 +13,129 @@
   [![Python](https://img.shields.io/badge/Python-3.9%2B-4c6078)](#installation)
   [![Source](https://img.shields.io/badge/taxonomy-ThePatternSite-31455f)](https://www.thepatternsite.com/chartpatterns.html)
 
-  **[Русский](#о-проекте) · [English](#english-summary) · [Offline gallery](gallery.html) · [Source audit](docs/SOURCE_AUDIT.md)**
+  **English** · [Русский](README.ru.md) · [Offline gallery](gallery.html) · [Source audit](docs/SOURCE_AUDIT.md)
 </div>
 
 ---
 
-## О проекте
+## About
 
-**Pattern Atlas** — готовый к GitHub-публикации Agent Skill с каталогом паттернов технического анализа, оригинальными учебными SVG-схемами и проверяемыми инструментами для OHLCV. Справочник структурирован по именам из [алфавитного каталога Thomas Bulkowski / ThePatternSite](https://www.thepatternsite.com/chartpatterns.html) и написан самостоятельно: **не является зеркалом сайта, точной репродукцией его описаний или источником его статистики**.
+**Pattern Atlas** is an open-source Agent Skill with a technical-analysis pattern catalog, original educational SVG schematics and auditable tools for OHLCV data. The catalog follows the names in [Thomas Bulkowski's alphabetical index at ThePatternSite](https://www.thepatternsite.com/chartpatterns.html) and is written independently: **it is not a mirror of the site, a verbatim reproduction of its descriptions, or a source of its statistics**.
 
-Идея: ИИ не только узнаёт внешне похожую фигуру, но и объясняет, почему её можно **опровергнуть**. Агент должен отличать поиск названия в каталоге от подтверждённого на графике сигнала и от доказанной статистической закономерности.
+The idea is that an AI agent should not merely recognize a visually similar shape; it should explain why a formation can be **falsified**. The agent must distinguish a catalog lookup from a confirmed signal on a chart and from a proven statistical regularity.
 
 <p align="center"><img src="docs/assets/workflow.svg" alt="Lookup, Classify, Verify, Falsify and Report" width="100%"></p>
 
-### Что входит
+### What is included
 
-| Компонент | Объём | Статус |
+| Component | Volume | Status |
 |---|---:|---|
-| Уникальные записи каталога | **383** | Транскрипция индексных имён; 426 исходных строк, 43 точных повторения |
-| Методические семейства | **38** | Авторские русские критерии и аналитические оговорки |
-| Индивидуальные страницы | **383** | Одна на каждую запись, с особенностями, ограничениями и ссылкой |
-| Оригинальные схемы SVG | **334** | Программно созданные учебные примеры **семейства**, не графики реальных торгов |
-| Найденные прямые URL | **35** | Проверены ссылки на страницы, **не** все сведения этих страниц |
-| OHLCV-сканер | **ограниченный** | Inside/outside, NR4/NR7, полные гэпы, эвристика подтверждённой двойной вершины/дна |
-| Офлайн-галерея | **1 HTML** | Поиск и фильтры, без сервера, CDN и сборщика |
+| Unique catalog entries | **383** | Index-name transcription; 426 source rows, 43 exact duplicates |
+| Methodological families | **38** | Original Russian criteria and analytical caveats |
+| Individual pages | **383** | One per entry, with features, limitations and a source link |
+| Original SVG schematics | **334** | Programmatically generated educational **family** examples, not real trading charts |
+| Direct URLs found | **35** | Page links checked; **not** all claims on those pages |
+| OHLCV scanner | **limited** | Inside/outside, NR4/NR7, full gaps, confirmed double top/bottom heuristic |
+| Offline gallery | **1 HTML file** | Search and filters, no server, CDN or bundler |
 
-> **Правило точности.** 383 — покрытие *записей индекса*, а не 383 научно проверенных торговых стратегий или 383 реализованных алгоритма распознавания. Некоторые записи — методы, исследования и события, а не фигуры. Многие уникальные определения автора требуют сверки с конкретными страницами; код помечает это явно. См. [SOURCE_AUDIT](docs/SOURCE_AUDIT.md).
+> **Accuracy rule.** 383 is coverage of *index entries*, not 383 scientifically validated trading strategies or 383 implemented recognition algorithms. Some entries are methods, studies and events rather than chart formations. Many author-specific definitions require page-level verification; the code marks this explicitly. See [SOURCE_AUDIT](docs/SOURCE_AUDIT.md).
 
-## Быстрый просмотр
+## Quick look
 
-Откройте [`gallery.html`](gallery.html) прямо в браузере после клонирования репозитория. В галерее доступны поиск, семейства, категории, SVG и переходы к индивидуальным Markdown-описаниям и первоисточнику. Для нормального отображения изображений при просмотре на GitHub лучше открыть локальную копию страницы.
+Open [`gallery.html`](gallery.html) in a browser after cloning the repository. The gallery provides search, family and category filters, SVG previews and links to individual Markdown entries and the original source. For reliable image rendering, open the local copy rather than the GitHub HTML preview.
 
-Примеры материалов:
+Example materials:
 
-- [Ascending triangles](skills/pattern-atlas/patterns/ascending-triangles.md) — форма, проверка, ложные сигналы, SVG
-- [Head-and-shoulders tops](skills/pattern-atlas/patterns/head-and-shoulders-tops.md) — шея/плечи и условия отмены
-- [Double bottoms](skills/pattern-atlas/patterns/adam-and-adam-double-bottoms.md) — различие кандидата и пробоя neckline
-- [Source audit](docs/SOURCE_AUDIT.md) — что проверено и что НЕ проверено
+- [Ascending triangles](skills/pattern-atlas/patterns/ascending-triangles.md) — shape, confirmation, false signals, SVG
+- [Head-and-shoulders tops](skills/pattern-atlas/patterns/head-and-shoulders-tops.md) — neckline/shoulders and invalidation rules
+- [Double bottoms](skills/pattern-atlas/patterns/adam-and-adam-double-bottoms.md) — candidate vs neckline breakout
+- [Source audit](docs/SOURCE_AUDIT.md) — what is and is NOT verified
 
 ## Installation
 
-### Агентский установщик
+### Agent installer
 
 ```bash
 npx skills add KaigorodovTuskul/Pattern-Atlas-Technical-Analysis-Agent-Skill --skill pattern-atlas
 ```
 
-Для Codex / Claude Code / Cursor можно выбрать конкретные агенты в [skills CLI](https://github.com/vercel-labs/skills). Команда устанавливает скилл напрямую из этого репозитория.
+For Codex / Claude Code / Cursor, select specific agents in the [skills CLI](https://github.com/vercel-labs/skills). The command installs the skill directly from this repository.
 
-### Офлайн-установка без сторонних зависимостей
+### Offline installation without third-party dependencies
 
 ```bash
-# Из корня репозитория; Python 3.9+
+# From the repository root; Python 3.9+
 python scripts/install.py --project /path/to/project --agent codex --dry-run
 python scripts/install.py --project /path/to/project --agent codex
 ```
 
-Поддержаны `codex`, `claude-code`, `cursor`, `opencode`, `gemini`, `copilot`, `generic` — точные пути описаны в [COMPATIBILITY](docs/COMPATIBILITY.md). Установщик не перезаписывает старый скилл без `--force`. Можно также скопировать `skills/pattern-atlas` в поддерживаемую папку вручную.
+Supported values: `codex`, `claude-code`, `cursor`, `opencode`, `gemini`, `copilot`, `generic` — exact paths are documented in [COMPATIBILITY](docs/COMPATIBILITY.md). The installer will not overwrite an existing skill without `--force`. You can also copy `skills/pattern-atlas` manually into a supported folder.
 
-## Использование
+## Usage
 
 ```text
-Используй Pattern Atlas для анализа приложенного дневного графика.
-Найди 2–3 гипотезы о формации, отметь границы, уровень подтверждения
-и критерий отмены. Не выдумывай ни цен, ни вероятностей, ни статистики Bulkowski.
+Use Pattern Atlas to analyze the attached daily chart.
+Identify 2–3 formation hypotheses, mark boundaries, the confirmation level
+and the invalidation criterion. Do not invent prices, probabilities or Bulkowski statistics.
 ```
 
 ```bash
-# Поиск оригинального термина или русского методического описания
+# Search an original term or a Russian methodological description
 python skills/pattern-atlas/scripts/search_catalog.py "cup with handle"
 python skills/pattern-atlas/scripts/search_catalog.py "клин" --json
 python skills/pattern-atlas/scripts/search_catalog.py --families
 python skills/pattern-atlas/scripts/search_catalog.py --stats
 
-# Открыть подробную запись по slug
+# Open a detailed entry by slug
 python skills/pattern-atlas/scripts/search_catalog.py --id ascending-triangles
 
-# Ограниченный воспроизводимый скринер OHLCV
+# Limited reproducible OHLCV screener
 python skills/pattern-atlas/scripts/scan_ohlcv.py examples/demo_ohlcv.csv --output results.json
 ```
 
-Формат CSV: `date,open,high,low,close[,volume]`. Даты должны быть отсортированы в ISO-совместимом формате; volume необязателен. Скринер не получает данные из интернета, не корректирует корпоративные события и **не умеет автоматически обнаруживать все фигуры каталога**. Критерии и покрытие описаны в [DETECTION](skills/pattern-atlas/references/DETECTION.md).
+CSV format: `date,open,high,low,close[,volume]`. Dates must be sorted in an ISO-compatible format; volume is optional. The screener does not download data, does not adjust for corporate actions and **cannot automatically detect every pattern in the catalog**. Criteria and coverage are documented in [DETECTION](skills/pattern-atlas/references/DETECTION.md).
 
-## Структура репозитория
+## Repository structure
 
 ```text
 Pattern-Atlas-Technical-Analysis-Agent-Skill/
-├── README.md / AGENTS.md / LICENSE / NOTICE / CHANGELOG.md
-├── gallery.html                 # красивый интерактивный автономный каталог
+├── README.md / README.ru.md / AGENTS.md / LICENSE / NOTICE / CHANGELOG.md
+├── gallery.html                 # interactive standalone catalog
 ├── skills/pattern-atlas/
-│   ├── SKILL.md                # агентские инструкции, progressive disclosure
+│   ├── SKILL.md                # agent instructions, progressive disclosure
 │   ├── data/
-│   │   ├── catalog.json        # 383 записи, URL/доверие/описания/схемы
-│   │   ├── families.json       # 38 семейств
-│   │   └── index_names.txt     # индексная транскрипция с сохранением повторов
-│   ├── patterns/               # 383 отдельных файла с описаниями
-│   ├── references/             # 38 методик + индексы + протоколы
-│   ├── assets/                 # 334 оригинальные SVG + demo OHLCV
-│   └── scripts/                # поиск, OHLCV-сканер
-├── scripts/                    # сборка, рендер, инсталляция, проверка
-├── docs/                       # исходники, лицензии, методология, совместимость
-├── examples/                   # демоданные, запросы
-├── tests/                      # unit/integration + поведенческие сценарии
-└── .github/workflows/ci.yml   # CI-проверки
+│   │   ├── catalog.json        # 383 records: URLs/confidence/descriptions/schematics
+│   │   ├── families.json       # 38 families
+│   │   └── index_names.txt     # index transcription preserving duplicates
+│   ├── patterns/               # 383 individual descriptions
+│   ├── references/             # 38 methodologies + indexes + protocols
+│   ├── assets/                 # 334 original SVGs + demo OHLCV
+│   └── scripts/                # search, OHLCV scanner
+├── scripts/                    # build, render, install, validate
+├── docs/                       # source notes, methodology, compatibility
+├── examples/                   # demo data, prompts
+├── tests/                      # unit/integration + behavioral scenarios
+└── .github/workflows/ci.yml   # CI checks
 ```
 
-## Валидация / воспроизводимость
+## Validation / reproducibility
 
 ```bash
 python scripts/validate.py
 python -m unittest discover -s tests -v
 
-# Пересобрать каталог, учебные SVG, страницы и галерею локально
+# Rebuild the catalog, educational SVGs, pages and gallery locally
 python scripts/build_catalog.py
 python scripts/render_diagrams.py
 python scripts/build_docs.py
 python scripts/validate.py
 ```
 
-Проверки удостоверяют целостность файлов, связность ссылок, синтаксис SVG, схему данных и базовые свойства сканера. **Они не удостоверяют исходную достоверность статистики паттернов, превосходство над buy-and-hold или точное соответствие каждой авторской странице.**
+The checks verify file integrity, link consistency, SVG syntax, data schema and basic scanner properties. **They do not establish the original accuracy of pattern statistics, outperformance versus buy-and-hold, or exact correspondence with every author page.**
 
-## English summary
+## Scope and limitations
 
-Pattern Atlas is a portable, dependency-free Agent Skill inspired by the **index/taxonomy** of Thomas Bulkowski’s ThePatternSite. It includes an original Russian-language explanation per indexed entry, 38 lazy-loadable family references, 334 independently rendered synthetic SVG examples, an offline search/filter gallery and limited auditable OHLCV rules. **The original website’s explanations, historic charts, photos and statistical tables are not bundled.** Use it for structured research and critical interpretation, not as a proven forecasting edge. See the [provenance audit](docs/SOURCE_AUDIT.md) for precise limitations.
+Pattern Atlas is a portable, dependency-free Agent Skill inspired by the **index/taxonomy** of Thomas Bulkowski's ThePatternSite. It provides an original Russian-language explanation for each indexed entry, 38 lazy-loadable family references, 334 independently rendered synthetic SVG examples, an offline search/filter gallery and limited auditable OHLCV rules. **The original website's explanations, historic charts, photos and statistical tables are not bundled.** Use it for structured research and critical interpretation, not as a proven forecasting edge. See the [provenance audit](docs/SOURCE_AUDIT.md) for precise limitations.
 
 ## Attribution, copyright and risk
 

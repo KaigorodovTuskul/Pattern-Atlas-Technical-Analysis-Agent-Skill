@@ -7,6 +7,7 @@
 - [x] Discovery CLI, offline gallery, cross-reference validation, local installer.
 - [x] 15 offline unittests and GitHub Actions CI configuration.
 - [x] Disclosed source-content limits, IP/attribution, status of unverified author-specific definitions.
+- [x] English README plus a complete Russian translation with a language switcher.
 - [x] Published at <https://github.com/KaigorodovTuskul/Pattern-Atlas-Technical-Analysis-Agent-Skill> with `stable` as the default branch.
 - [ ] Independently inspect each of the 383 upstream detail pages — **not completed**; this is not required for operating the research skill, but is required before asserting definition-completeness.
 - [ ] Independently test each pattern as a profitable signal — **not done**; do not claim detection completeness or trading edge.
