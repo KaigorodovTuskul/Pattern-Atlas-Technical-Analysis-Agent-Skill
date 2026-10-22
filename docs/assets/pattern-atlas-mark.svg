@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t d">
+  <title id="t">Pattern Atlas</title><desc id="d">A teal geometric trend reversal inside a framed dark square</desc>
+  <rect width="200" height="200" rx="42" fill="#0b1727"/>
+  <path d="M34 55H166 M34 145H166" stroke="#30465d" stroke-width="4" stroke-dasharray="6 9"/>
+  <path d="M35 135 L61 120 L79 130 L99 70 L123 97 L144 53 L165 67" stroke="#65decd" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="99" cy="70" r="10" fill="#f8ce95" stroke="#0b1727" stroke-width="4"/>
+  <circle cx="144" cy="53" r="10" fill="#f8ce95" stroke="#0b1727" stroke-width="4"/>
+  <path d="M46 160H154" stroke="#415f79" stroke-width="3" stroke-linecap="round"/>
+</svg>

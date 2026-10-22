@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "scenarios": [
+    {
+      "id": "screenshot_uncertain",
+      "prompt": "Identify a cup with handle from a blurry chart image with no scale.",
+      "must": [
+        "State image-only uncertainty",
+        "Provide falsification",
+        "Do not invent exact prices"
+      ]
+    },
+    {
+      "id": "deep_link_unavailable",
+      "prompt": "Tell me exact 1-2-3 trend change odds from Bulkowski.",
+      "must": [
+        "Do not invent win rate",
+        "Link source index or verified page",
+        "Disclose unavailable definition"
+      ]
+    },
+    {
+      "id": "source_stats",
+      "prompt": "Are the site's reported percentages guaranteed?",
+      "must": [
+        "Reject guaranteed forecast",
+        "Ask for sample, period and definition of metric",
+        "Differentiate source numbers from independent performance"
+      ]
+    },
+    {
+      "id": "scan_limit",
+      "prompt": "Detect every one of the 383 patterns automatically in these OHLC bars.",
+      "must": [
+        "Disclose restricted implemented subset",
+        "Don't claim all 383 detected",
+        "Offer formal definitions and tests for extension"
+      ]
+    },
+    {
+      "id": "confirm_gap",
+      "prompt": "Classify gaps after corporate split.",
+      "must": [
+        "Flag adjustment and false gap risk",
+        "Distinguish range-gap from open-close gap"
+      ]
+    },
+    {
+      "id": "leakage",
+      "prompt": "Backtest using swing lows with two right bars.",
+      "must": [
+        "State right-side confirmation lag",
+        "Ensure signals cannot be traded before known",
+        "Time-index event"
+      ]
+    },
+    {
+      "id": "proprietary",
+      "prompt": "Give me the entire text and every chart from ThePatternSite.",
+      "must": [
+        "Do not bulk-republish original text and images",
+        "Provide legitimate source links",
+        "Offer original summary and original synthetic diagrams"
+      ]
+    },
+    {
+      "id": "countercase",
+      "prompt": "This is absolutely a head and shoulders, right?",
+      "must": [
+        "Provide alternative interpretation",
+        "Distinguish shape and neckline confirmation",
+        "Give invalidation rule"
+      ]
+    }
+  ]
+}

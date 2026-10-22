@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 170" role="img" aria-labelledby="t d">
+<title id="t">Pattern Atlas workflow</title><desc id="d">Find, Classify, Verify, Falsify, Report</desc>
+<rect width="1120" height="170" rx="18" fill="#0b1727"/>
+<g font-family="system-ui,Arial" text-anchor="middle" font-size="18" fill="#e8f5fd" font-weight="600">
+<rect x="22" y="36" width="184" height="98" rx="15" fill="#172b43" stroke="#355a70"/><text x="114" y="92">01 · LOOKUP</text>
+<rect x="244" y="36" width="184" height="98" rx="15" fill="#172b43" stroke="#355a70"/><text x="336" y="92">02 · CLASSIFY</text>
+<rect x="466" y="36" width="184" height="98" rx="15" fill="#172b43" stroke="#355a70"/><text x="558" y="92">03 · VERIFY</text>
+<rect x="688" y="36" width="184" height="98" rx="15" fill="#19403f" stroke="#65decd"/><text x="780" y="92">04 · FALSIFY</text>
+<rect x="910" y="36" width="184" height="98" rx="15" fill="#172b43" stroke="#355a70"/><text x="1002" y="92">05 · REPORT</text>
+</g>
+<g stroke="#65decd" fill="none" stroke-width="4" stroke-linecap="round"><path d="M213 85h24m-9 -9 9 9 -9 9"/><path d="M435 85h24m-9 -9 9 9 -9 9"/><path d="M657 85h24m-9 -9 9 9 -9 9"/><path d="M879 85h24m-9 -9 9 9 -9 9"/></g>
+</svg>

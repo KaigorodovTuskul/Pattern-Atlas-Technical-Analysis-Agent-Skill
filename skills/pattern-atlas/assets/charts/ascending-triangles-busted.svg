@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 380" role="img" aria-labelledby="title desc">
+<title id="title">Ascending triangles, busted: original conceptual diagram</title><desc id="desc">Not a copied site image, not historical market data. Stylized family-level geometry.</desc>
+<rect width="650" height="380" fill="#0c1222" rx="19"/>
+<text x="40" y="42" fill="#f5f7fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">Ascending triangles, busted</text>
+<text x="41" y="62" fill="#8da2be" font-size="12" font-family="Arial,sans-serif">TRIANGLES · CONCEPT STUDY</text>
+<rect x="41" y="76" width="568" height="228" rx="11" fill="#111d32" stroke="#31455f" />
+<line x1="53" y1="109" x2="597" y2="109" stroke="#26364e" stroke-width="1" stroke-dasharray="4 7" /><line x1="53" y1="163" x2="597" y2="163" stroke="#26364e" stroke-width="1" stroke-dasharray="4 7" /><line x1="53" y1="217" x2="597" y2="217" stroke="#26364e" stroke-width="1" stroke-dasharray="4 7" /><line x1="53" y1="271" x2="597" y2="271" stroke="#26364e" stroke-width="1" stroke-dasharray="4 7" />
+<line x1="120" y1="113" x2="500" y2="113" stroke="#7890ae" stroke-width="2" stroke-dasharray="6 6" /><line x1="120" y1="249" x2="500" y2="173" stroke="#7890ae" stroke-width="2" stroke-dasharray="6 6" /><text x="330" y="302" font-size="12" fill="#ffb47f" text-anchor="middle">FALSE BREAKOUT → REVERSAL: CONCEPTUAL</text>
+<path d="M67.0 213.3 L118.6 114.3 L165.0 207.2 L211.5 116.3 L257.9 191.1 L309.5 114.3 L350.8 172.9 L397.2 116.3 L438.5 152.7 L474.6 116.3 L510.8 140.6 L557.2 108.3" fill="none" stroke="#68e2cc" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="43" y="328" fill="#72879e" font-family="Arial,sans-serif" font-size="11">ORIGINAL SCHEMATIC  ·  NOT REAL PRICE DATA</text>
+<text x="43" y="352" fill="#b7c8d9" font-family="Arial,sans-serif" font-size="12">Not a validated identification or trading signal. See catalog rules.</text>
+</svg>

@@ -1,0 +1,445 @@
+[1-3]
+1-2-3 trend change
+2B
+2-Close bullish reversal
+2-Close bearish reversal
+2-dance
+2-did
+2-tall
+3-Bar
+3DC
+3 falling peaks
+3L-R
+3L-R, Inverted
+3 peaks and domed house
+3-peaks and spike
+3-point Channels, drawing
+3 rising valleys
+3 trading mistakes
+3 trading tips
+10 Baggers
+12 month moving average
+38% Exit
+[A]
+ABC correction, simple
+AB=CD, bearish
+AB=CD, bullish
+Adam & Adam double bottoms
+Adam & Adam double tops
+Adam & Eve double bottoms
+Adam & Eve double tops
+Adam and Eve patterns
+Adam White setup
+Area gaps
+Ascending and inverted scallops
+Ascending broadening wedge
+Ascending scallops
+Ascending triangles
+Ascending triangles, busted
+Ascending triangles, Elliott wave
+Ascending triangle setup
+Asset protection
+Averaging down
+[B]
+Basic motive phase
+Bat, bearish
+Bat, bullish
+Bearish 2-Close
+Bearish AB=CD
+Bearish bat
+Bearish crab
+Bullish crab
+Bearish Gartley
+Bearish turn-key
+Bullish turn-key
+Bearish 2-step
+Bullish 2-step
+Bearish Wolfe wave
+Bearish butterfly
+Bearish Carl V
+Bearish double key reversal
+Bearish fakey
+Best buy days
+Best buy months
+Best chart patterns
+Big M
+Big W
+Book reviews
+Book value
+Bottoms, the nature of
+Bottoms, finding market
+Breakaway gaps
+Broadening bottoms
+Broadening formations, right-angled and ascending
+Broadening formations, right-angled and descending
+Broadening tops
+Broadening wedge, ascending
+Broadening wedge, descending
+Bullish 2-close
+Bullish AB=CD
+Bullish bat
+Bullish butterfly
+Bullish Carl V
+Bullish double key reversal
+Bullish fakey
+Bullish Gartley
+Bullish Wolfe wave
+Bump-and-run reversal bottoms
+Bump-and-run reversal tops
+Busted patterns
+Busted ascending triangle
+Busted descending triangle
+Busted double bottom
+Busted double top
+Busted head-and-shoulders Bottoms
+Busted head-and-shoulders Tops
+Busted rectangle
+Busted symmetrical triangle
+Busted triple bottom
+Busted triple top
+Butterfly, bearish
+Butterfly, bullish
+[C]
+Candlestick Patterns
+Carl V, bearish
+Carl V, bullish
+Cat's ears
+Channels
+Channels, drawing 3-point
+Closing price reversal, downtrend
+Closing price reversal, uptrend
+Cloud banks
+Common gaps
+Complex head-and-shoulders bottoms
+Complex head-and-shoulders tops
+Continuation gaps
+Corrective phase
+The CPSetup
+Crab, bearish
+Crab, bullish
+Cup with handle
+Cup with handle, inverted
+[D]
+2-Dance
+2-Did
+Dead-cat bounce
+Dead-cat bounce, inverted
+Descending and inverted scallops
+Descending broadening wedges
+Descending scallops
+Descending triangles
+Descending triangle, busted
+Descending triangle, Elliott wave
+Diamond bottoms
+Diamond tops
+Divergence
+Diving board
+Dome-shaped volume
+Domed house and three peaks
+Double bottoms, Adam & Adam
+Double bottoms, Adam & Eve
+Double bottom, busted
+Double bottoms, Eve & Adam
+Double bottoms, Eve & Eve
+Double bottoms, overview 1
+Double bottoms, overview 2
+Double bottoms, ugly
+Double key reversal, bearish
+Double key reversal, bullish
+Double tops, Adam & Adam
+Double tops, Adam & Eve
+Double top, busted
+Double tops, Eve & Adam
+Double tops, Eve & Eve
+Double tops, overview
+Double zigzag
+Downgrades, stock rating
+Downside weekly reversal
+Down trendlines
+Drawing 3-point channels
+Dutch auction tender offers
+[E]
+Earnings surprise, bad
+Earnings surprise, good
+Earnings flag
+Elevator stop
+Elliott waves
+Ending diagonal triangle, (wedges)
+Eve & Adam double bottoms
+Eve & Adam double tops
+Eve & Eve double bottoms
+Eve & Eve double tops
+Event patterns
+Ex-dividend gaps
+Exhaustion gaps
+Expanded flag
+Extended V-bottoms
+Extended V-tops
+[F]
+Failure Swings
+Fakey, bearish
+Fakey, bullish
+Falling volume trend
+Falling wedge
+FDA drug approvals
+Finding market bottoms
+First wave extension
+Fifth wave extension
+Flags
+Flags, earnings
+Flags, high and tight
+Flat (3-3-5)
+Flat base
+Flat, expanded
+Flat, running
+[G]
+Gap2H
+Gap2H, inverted
+Gaps
+Gaps, area
+Gaps, breakaway
+Gaps, common
+Gaps, continuation
+Gaps, ex-dividend
+Gaps, exhaustion
+Gaps, measuring
+Gaps, runaway
+Gartley, bearish
+Gartley, bullish
+[H]
+Head-and-shoulders bottoms
+Head-and-shoulders bottoms, busted
+Head-and-shoulders complex bottoms
+Head-and-shoulders complex tops
+Head-and-shoulders tops
+Head-and-shoulders tops, busted
+High and tight flags
+Hook reversal, downtrend
+Hook reversal, uptrend
+Horn bottoms
+Horn tops
+[I]
+Inside days
+Inverted 3L-R
+Inverted and ascending scallops
+Inverted and descending scallops
+Inverted cup with handle
+Inverted dead-cat bounce
+Inverted gap2H
+Inverted roof
+Inverted V pivot
+Island bottoms
+Island, long
+Island reversal
+Island tops
+[J-L]
+Key reversal, downtrend
+Key reversal bar, bullish, v2
+Key reversal bar, bearish, v2
+Key reversal, uptrend
+Knots
+Leading diagonal triangle (wedges)
+Long island
+[M-O]
+Measured move down
+Measured move up
+Measuring gaps
+Minor highs and lows
+Mirrors, price
+Monthly symmetrical triangles
+Monthly trends (channels)
+Motive wave
+Mountain, price
+Multi-peaks
+Nr4 (Narrow range 4)
+Nr7 (Narrow range 7)
+The nature of bottoms
+One day reversal, bottom
+One day reversal, top
+Open-close reversal, downtrend
+Open-close reversal, uptrend
+Outside Days
+[P]
+Partial Declines
+Partial Rises
+Pennants
+Performance, rank
+Performance, time
+Pipe bottoms
+Pipe tops
+Pivot point reversal, downtrend
+Pivot point reversal, uptrend
+Pivot, V
+Pothole
+Price mirrors
+Price mountain
+Pullbacks
+[Q-R]
+Quizzes
+Random-shaped volume
+Rank
+Rank over time
+Rectangle bottoms
+Rectangle, busted
+Rectangle tops
+Resistance
+Reverse symmetrical Triangle
+Right-angled and ascending broadening formations
+Right-angled and descending broadening formations
+Rising volume trend
+Rising wedge
+Roof
+Roof, inverted
+Rounding bottoms
+Rounding tops
+Runaway gaps
+Running flat
+Running triangle
+[S]
+Same-store sales, bad
+Same-store sales, good
+Scallops, ascending
+Scallops, ascending and inverted
+Scallops, descending
+Scallops, descending and inverted
+Shark-32
+Simple ABC correction
+Slider quizzes
+Small patterns
+2-close bullish reversal
+2-Close bearish reversal
+2-dance
+2-did
+2-step, bearish
+2-step, bullish
+2-tall
+3-Bar
+3DC
+3L-R
+3L-R, inverted
+Closing price reversal, downtrend
+Closing price reversal, uptrend
+Double key reversal, bearish
+Double key reversal, bullish
+Fakey, bearish
+Fakey, bullish
+Gap2H
+Gap2H, inverted
+Hook reversal, downtrend
+Hook reversal, uptrend
+Inside Days
+Key reversal, downtrend
+Key reversal, uptrend
+Key reversal bar, bullish, v2
+Key reversal bar, bearish, v2
+Narrow range 4
+Narrow range 7
+One day reversal, bottom
+One day reversal, top
+Open-close reversal, downtrend
+Open-close reversal, uptrend
+Outside Days
+Pivot point reversal, downtrend
+Pivot point reversal, uptrend
+Shark-32
+Small patterns, daily list
+Turn-key, bearish
+Turn-key, bullish
+Weekly reversals, downside
+Weekly reversals, upside
+Wide ranging day downside reversal
+Wide ranging day upside reversal
+Stop, elevator
+Stop, volatility
+Spikes
+Support
+Stock downgrades
+Stock upgrades
+Symmetrical triangles
+Symmetrical triangle, Elliott wave
+Symmetrical triangles, monthly
+[T]
+Tails
+Ten baggers
+(Three-bar) 3-Bar
+Three falling peaks
+Three peaks and domed house
+Three peaks and spike
+Three rising valleys
+Three trading mistakes
+Three trading tips
+Third wave extension
+Throwbacks
+Time performance
+Trend change, 1-2-3
+Trend compression, 3-day (3DC)
+Trendlines, down
+Trendlines, up
+Trends (channels), monthly
+Triangles, ascending
+Triangle, ascending, busted
+Triangle, ascending, Elliott wave
+Triangles, descending
+Triangle, descending, busted
+Triangle, descending, Elliott wave
+Triangle, ending diagonal (wedges)
+Triangle, leading diagonal (wedges)
+Triangle, reverse symmetrical (broadening)
+Triangle, running
+Triangles, symmetrical
+Triangle, symmetrical, busted
+Triangles, symmetrical, monthly
+Triangle, symmetrical, Elliott wave
+Triple bottoms
+Triple bottom, busted
+Triple tops
+Triple top, busted
+Truncation
+Turn-key, bearish
+Turn-key, bullish
+(Two-dance) 2-dance
+(Two did) 2-did
+(Two-step) 2-step, bearish
+(Two-step) 2-step, bullish
+(Two-tall) 2-tall
+[U]
+Ugly double bottoms
+Unknown wave extension
+Upgrades, stock rating
+Upside weekly reversal
+Up trendlines
+U-shaped volume
+[V]
+V-bottoms
+V-bottoms, extended
+V tops
+V-tops, extended
+Vertical run down
+Vertical run up
+V pivot
+V pivot, inverted
+Volatility stop
+Volume, breakout day
+Volume, dome-shaped
+Volume patterns
+Volume, random shaped
+Volume shapes
+Volume trend
+Volume, U-shaped
+[W-Z]
+Wave extension, first
+Wave extension, third
+Wave extension, fifth
+Wave extension, unknown
+Wedge, ascending broadening
+Wedge, descending broadening
+Wedge, falling
+Wedge, rising
+Weekly reversal, downside
+Weekly reversal, upside
+Wide ranging day downside reversal
+Wide ranging day upside reversal
+Wolfe wave, bearish
+Wolfe wave, bullish
+Zigzag
+Zigzag, double
