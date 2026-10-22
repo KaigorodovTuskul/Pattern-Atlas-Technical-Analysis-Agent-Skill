@@ -8,6 +8,7 @@
   An open-source, offline-first AI Agent Skill for chart-pattern research, identification and critical validation.
 
   [![Agent Skills](https://img.shields.io/badge/Agent_Skills-compatible-4cbfbd)](https://agentskills.io/specification)
+  [![skills.sh](https://img.shields.io/badge/skills.sh-Pattern%20Atlas-111111)](https://www.skills.sh/kaigorodovtuskul/pattern-atlas-technical-analysis-agent-skill/pattern-atlas)
   [![MIT](https://img.shields.io/badge/license-MIT-4c6078)](LICENSE)
   [![Python](https://img.shields.io/badge/Python-3.9%2B-4c6078)](#installation)
   [![Source](https://img.shields.io/badge/taxonomy-ThePatternSite-31455f)](https://www.thepatternsite.com/chartpatterns.html)
